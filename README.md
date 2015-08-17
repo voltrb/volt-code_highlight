@@ -20,9 +20,11 @@ In a view, add something like:
 
 ```html
 <:code_highlight>
+<pre>
 def some_code
   puts 'an example'
 end
+</pre>
 </:code_highlight>
 ```
 
